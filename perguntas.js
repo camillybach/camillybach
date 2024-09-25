@@ -1,19 +1,20 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
+    'Qual cidade é conhecida como "A Cidade Eterna"? 
+    'Roma
+
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quantos corações tem um polvo??',
+    'Ele tem 3'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual planeta está mais próximo do sol??',
+    ' Mercúrio
+
 )
 
 criaCartao(
