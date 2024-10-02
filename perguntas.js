@@ -1,7 +1,7 @@
 criaCartao
     (
     'Programação',
-    'Qual cidade é conhecida como "A Cidade Eterna?"', 
+    'Qual cidade é conhecida como "A Cidade Eterna?', 
     'Roma'
     )
 
@@ -9,7 +9,7 @@ criaCartao
 criaCartao
     (
     'Geografia',
-    'Qual capital do Brasil"', 
+    'Qual capital do Brasil', 
     'Brasilia'
     )
 
@@ -24,8 +24,8 @@ criaCartao
 criaCartao
     (
     'Programação',
-    'Qual planeta está mais próximo do sol??',
-    ' Mercúrio
+    'Qual planeta está mais próximo do sol?',
+    ' Mercúrio'
 
 )
 
@@ -39,7 +39,7 @@ criaCartao
 criaCartao
     (
     'Programação',
-    'Quem era o antigo Deus Grego do Sol? "', 
+    'Quem era o antigo Deus Grego do Sol? ', 
     'Apolo'
     )
 
@@ -68,6 +68,6 @@ criaCartao
 criaCartao
     (
     'Programação',
-    'Qual país tem mais títulos da Copa do Mundo?"', 
+    'Qual país tem mais títulos da Copa do Mundo?', 
     'Brasil'
     )
